@@ -129,8 +129,5 @@ We can clearly see that IO tasks are waiting for their iowait time and getting p
 ![image](https://github.com/user-attachments/assets/d5f5367a-0a17-4ac6-9663-1b06e96e9677)
 
 
-   _dissecting linux schedulers & implementing our toy cfs_scheduler simulation:- [Link](https://singhdevhub.bearblog.dev/dissecting-linux-schedulers-implementing-our-toy-cfs_scheduler-simulation/)_
-
-
 
    
